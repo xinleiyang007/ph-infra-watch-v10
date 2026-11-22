@@ -1,0 +1,234 @@
+{
+  "schema_version": "media-sources-9.0",
+  "description": "Public publisher RSS where publicly documented, plus labeled Google News indexed discovery. A configured source is NOT guaranteed to respond on every run. Metadata and limited excerpts only; no full-text replication.",
+  "max_items_per_source": 45,
+  "retention_days": 120,
+  "max_records": 1800,
+  "sources": [
+    {
+      "id": "philstar_business",
+      "label": "Philstar · Business",
+      "publisher": "Philstar",
+      "group": "media",
+      "method": "rss",
+      "feed_url": "https://www.philstar.com/rss/business",
+      "home": "https://www.philstar.com/business"
+    },
+    {
+      "id": "businessworld",
+      "label": "BusinessWorld",
+      "publisher": "BusinessWorld",
+      "group": "media",
+      "method": "rss",
+      "feed_url": "https://www.bworldonline.com/feed/",
+      "home": "https://www.bworldonline.com/"
+    },
+    {
+      "id": "inquirer_business",
+      "label": "Inquirer · Business",
+      "publisher": "Inquirer",
+      "group": "media",
+      "method": "rss",
+      "feed_url": "https://business.inquirer.net/feed",
+      "home": "https://business.inquirer.net/"
+    },
+    {
+      "id": "gma_news",
+      "label": "GMA News",
+      "publisher": "GMA News",
+      "group": "media",
+      "method": "rss",
+      "feed_url": "https://data.gmanews.tv/gno/rss/news/feed.xml",
+      "home": "https://www.gmanetwork.com/news/"
+    },
+    {
+      "id": "rappler_business",
+      "label": "Rappler · Business",
+      "publisher": "Rappler",
+      "group": "media",
+      "method": "rss",
+      "feed_url": "https://www.rappler.com/business/feed/",
+      "home": "https://www.rappler.com/business/"
+    },
+    {
+      "id": "rappler_ph",
+      "label": "Rappler · Philippines",
+      "publisher": "Rappler",
+      "group": "media",
+      "method": "rss",
+      "feed_url": "https://www.rappler.com/philippines/feed/",
+      "home": "https://www.rappler.com/philippines/"
+    },
+    {
+      "id": "inquirer_national",
+      "label": "Inquirer · Newsinfo",
+      "publisher": "Inquirer",
+      "group": "media",
+      "method": "rss",
+      "feed_url": "https://newsinfo.inquirer.net/feed",
+      "home": "https://newsinfo.inquirer.net/"
+    },
+    {
+      "id": "manilatimes_business",
+      "label": "The Manila Times · Business",
+      "publisher": "The Manila Times",
+      "group": "media",
+      "method": "rss",
+      "feed_url": "https://next.manilatimes.net/business/corporate-news/feed/",
+      "home": "https://next.manilatimes.net/business"
+    },
+    {
+      "id": "manilabulletin_index",
+      "label": "Manila Bulletin · 索引",
+      "publisher": "Manila Bulletin",
+      "group": "media",
+      "method": "google_news_search",
+      "query": "site:mb.com.ph (solar OR wind OR energy storage OR data center OR fiber optic OR power project) when:45d",
+      "home": "https://mb.com.ph/"
+    },
+    {
+      "id": "businessmirror_index",
+      "label": "BusinessMirror · 索引",
+      "publisher": "BusinessMirror",
+      "group": "media",
+      "method": "google_news_search",
+      "query": "site:businessmirror.com.ph (solar OR wind OR energy storage OR data center OR broadband OR power project) when:45d",
+      "home": "https://businessmirror.com.ph/"
+    },
+    {
+      "id": "abs_cbn_index",
+      "label": "ABS-CBN News · 索引",
+      "publisher": "ABS-CBN News",
+      "group": "media",
+      "method": "google_news_search",
+      "query": "site:abs-cbn.com (solar OR power plant OR wind farm OR BESS OR data center OR fiber optic) when:45d",
+      "home": "https://www.abs-cbn.com/news"
+    },
+    {
+      "id": "sunstar_index",
+      "label": "SunStar · 索引",
+      "publisher": "SunStar",
+      "group": "media",
+      "method": "google_news_search",
+      "query": "site:sunstar.com.ph (solar OR wind OR power plant OR data center OR broadband OR substation) when:45d",
+      "home": "https://www.sunstar.com.ph/"
+    },
+    {
+      "id": "manilastandard_index",
+      "label": "Manila Standard · 索引",
+      "publisher": "Manila Standard",
+      "group": "media",
+      "method": "google_news_search",
+      "query": "site:manilastandard.net (solar OR wind OR battery energy OR data center OR fiber optic OR power plant) when:45d",
+      "home": "https://manilastandard.net/"
+    },
+    {
+      "id": "dailytribune_index",
+      "label": "Daily Tribune · 索引",
+      "publisher": "Daily Tribune",
+      "group": "media",
+      "method": "google_news_search",
+      "query": "site:tribune.net.ph (solar OR wind OR power plant OR data center OR grid project OR broadband) when:45d",
+      "home": "https://tribune.net.ph/"
+    },
+    {
+      "id": "pna_index",
+      "label": "Philippine News Agency · 索引",
+      "publisher": "Philippine News Agency",
+      "group": "government_media",
+      "method": "google_news_search",
+      "query": "site:pna.gov.ph (solar OR power project OR renewable OR data center OR fiber optic OR charging station) when:45d",
+      "home": "https://www.pna.gov.ph/news/business"
+    },
+    {
+      "id": "doe_index",
+      "label": "DOE · 项目公告索引",
+      "publisher": "DOE",
+      "group": "official",
+      "method": "google_news_search",
+      "query": "site:doe.gov.ph (solar OR wind OR battery OR renewable OR project award) when:60d",
+      "home": "https://doe.gov.ph/"
+    },
+    {
+      "id": "ppp_index",
+      "label": "PPP Center · 项目索引",
+      "publisher": "PPP Center",
+      "group": "official",
+      "method": "google_news_search",
+      "query": "site:ppp.gov.ph (power OR energy OR ICT OR digital OR data center OR broadband) when:60d",
+      "home": "https://ppp.gov.ph/"
+    },
+    {
+      "id": "dict_index",
+      "label": "DICT · 数字基础设施索引",
+      "publisher": "DICT",
+      "group": "official",
+      "method": "google_news_search",
+      "query": "site:dict.gov.ph (fiber OR broadband OR data center OR ICT OR connectivity) when:60d",
+      "home": "https://dict.gov.ph/"
+    },
+    {
+      "id": "bcda_index",
+      "label": "BCDA · Clark 项目索引",
+      "publisher": "BCDA",
+      "group": "official",
+      "method": "google_news_search",
+      "query": "site:bcda.gov.ph (data center OR smart city OR solar OR power OR ICT infrastructure) when:60d",
+      "home": "https://bcda.gov.ph/"
+    },
+    {
+      "id": "topics_storage",
+      "label": "跨媒体 · 储能与充电",
+      "publisher": "Google News 综合发现",
+      "group": "topic",
+      "method": "google_news_search",
+      "query": "Philippines (BESS OR energy storage OR EV charging station) (project OR construction OR contract) when:30d",
+      "home": "https://news.google.com/"
+    },
+    {
+      "id": "topics_ict",
+      "label": "跨媒体 · ICT 工程",
+      "publisher": "Google News 综合发现",
+      "group": "topic",
+      "method": "google_news_search",
+      "query": "Philippines (structured cabling OR fiber optic OR ELV OR data center OR ICT infrastructure) (project OR contract OR construction) when:30d",
+      "home": "https://news.google.com/"
+    },
+    {
+      "id": "philstar_headlines",
+      "label": "Philstar · Headlines",
+      "publisher": "Philstar",
+      "group": "media",
+      "method": "rss",
+      "feed_url": "https://www.philstar.com/rss/headlines",
+      "home": "https://www.philstar.com/headlines"
+    },
+    {
+      "id": "manilatimes_green",
+      "label": "The Manila Times · Green Industries",
+      "publisher": "The Manila Times",
+      "group": "media",
+      "method": "rss",
+      "feed_url": "https://next.manilatimes.net/business/green-industries/feed/",
+      "home": "https://next.manilatimes.net/business/green-industries"
+    },
+    {
+      "id": "powerphilippines_index",
+      "label": "Power Philippines · 能源行业索引",
+      "publisher": "Power Philippines",
+      "group": "media",
+      "method": "google_news_search",
+      "query": "site:powerphilippines.com (solar OR wind OR BESS OR power plant OR energy storage OR transmission) when:45d",
+      "home": "https://powerphilippines.com/"
+    },
+    {
+      "id": "dcd_ph_index",
+      "label": "Data Center Dynamics · 菲律宾数据中心索引",
+      "publisher": "Data Center Dynamics",
+      "group": "media",
+      "method": "google_news_search",
+      "query": "site:datacenterdynamics.com/en/news/ Philippines (data center OR power OR construction OR ICT) when:60d",
+      "home": "https://www.datacenterdynamics.com/en/tags/philippines/"
+    }
+  ]
+}

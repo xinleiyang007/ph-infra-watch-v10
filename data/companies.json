@@ -1,0 +1,3706 @@
+{
+  "schema_version": "company-atlas-1.0",
+  "generated_at": "2026-11-22",
+  "notice": "未具备公司介绍证据时，仅展示其在项目库中的记录与角色，不推断公司主营业务或股权关系。",
+  "companies": [
+    {
+      "name": "5Hour Peak Energy Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-16E82BAE4BCD"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Aboitiz Power Corporation",
+      "roles": [
+        "投资方"
+      ],
+      "project_ids": [
+        "PH-BESS-001",
+        "PH-BESS-002"
+      ],
+      "description": "菲律宾能源企业，业务涉及发电、电力配送及零售供电；可再生能源投资通过其相关实体开展。",
+      "description_source_url": "https://aboitiz.com/about-us/our-businesses",
+      "website": "https://www.aboitizpower.com/",
+      "description_status": "official_source_summary",
+      "project_evidence_urls": [
+        "https://www.scatec.com/en/scatec-jv-starts-commercial-operation-of-battery-system-in-the-philippines/",
+        "https://www.scatec.com/en/snap-eyes-80-mw-battery-energy-storage-capacity-by-2026-breaks-ground-on-2nd-facility/"
+      ]
+    },
+    {
+      "name": "Aboitiz Renewables, Inc.",
+      "roles": [
+        "投资方"
+      ],
+      "project_ids": [
+        "PH-SOLAR-006"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://www.scatec.com/en/scatec-jv-in-the-philippines-awarded-68-mw-floating-solar-project/"
+      ]
+    },
+    {
+      "name": "Aboitiz Renewables, Inc. (ARI)",
+      "roles": [
+        "投资方"
+      ],
+      "project_ids": [
+        "PH-SOLAR-001"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://mirror.pia.gov.ph/news/2022/05/31/aboitiz-picks-epc-contractor-psinan-solar-project"
+      ]
+    },
+    {
+      "name": "Acciona Energia Philippines Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-FC2601CBF523"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Acciona Energia Philippines, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-B9BA962074B6"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Adlao Energy Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-C47943C6F46A"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Agrosolis Renewable Energy, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-D2DF53CC3D8A"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Agsapa Green Energy Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-1817D6A577ED"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Airstream Renewables Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-084B9CE3F340",
+        "DOE-WIND-8F5A4C7D8CE6",
+        "DOE-WIND-903C109F2DA5",
+        "DOE-WIND-A7EBAD56C38F",
+        "DOE-WIND-BA46DCB4867B"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Alba Viento Power Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-513E322F6A86"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Alternergy Tanay Wind Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-2FF1976BCD8A"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Amara Solar Power Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-AB7343CB0E89"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Amihan Power, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-94B04114A206"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Amihan Renewable Energy Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-470436C5E94B"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Angeles Power, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-27B99AE5E07D"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Apolaki One Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-A415C4F462B6"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Apolaki Three Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-3A1EEB0C27B7",
+        "DOE-WIND-68D16DA7F8FA",
+        "DOE-WIND-BFAE9712F241",
+        "DOE-WIND-CC53850A04C9"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Apolaki Two Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-2BA5684880D6"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "AR-CE Agro Industrial Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-F53BB8CCD945"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "AR-VI Agro Industrial Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-29EFF6D3CD49"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Astra Solar Energy Corp",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-2F98406AE23F"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Atimonan Windkraft Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-7393AF8EF20B"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Bacnotan Solar Power Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-E894FA1A42B2"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Barracuda Energy Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-49DAFA8DA1E4",
+        "DOE-WIND-55C5792688AE"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media",
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Bases Conversion and Development Authority (BCDA)",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "PH-ICT-001"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://www.pna.gov.ph/index.php/articles/1251046"
+      ]
+    },
+    {
+      "name": "Basic Energy Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-566F795A915C"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Bayog Wind Power Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-A5461E537842"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Bengar Industrial Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-F8AA3D3B7087"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Benguet Electric Cooperative Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-900B789BB6B2"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Berde Rooftop, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-4FE1B61E54B7",
+        "DOE-SOLAR-FD5CDA6AABC4"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Beyond Renewable Energy Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-92C3025034FD"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "BKS Green Energy Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-68F8F858A0F4"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Bolo Renewable Energy Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-200CFE246A7E",
+        "DOE-SOLAR-866E26871C1B"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Bugallon Green Energy Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-BFE91462A33C"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "BuhaWind Energy Northern Luzon Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-A4228B786CE9"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Burgos Pangasinan Solar Energy Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-B67784632669"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Buskowitz Solar Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-15D3D110CA2B",
+        "DOE-OWN-7444E25593F6",
+        "DOE-OWN-7D3CD0155C72"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Canlubang Golf and Country Club, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-BAEF8FEEB8A7"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Casilagan Solar Power Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-4C2A55042AA7"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Cebu Mitsumi Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-AAC347C35B72"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "CI GMF II Samar Norte Holdings Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-65D25694FA9B"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Citic Land Development Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-8841907ED8C2"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Citicore Renewable Energy Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-ECC942C6F1A4"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Citicore Solar Pangasinan 2, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-AB331D8085FC"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Citicore Solar Pangasinan Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-BF1B6BD1CC4B"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Citicore Solar Quezon, Inc",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-F8C96483B5A8"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Citicore Solar Quezon, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-66EA8AF1D10F"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Citicore Wind Cagayan, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-8ACFED97E9EB"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Citicore Wind Energy Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-7FFFE319E8BB"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Citicore Wind Pangasinan 2 Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-DFE15B70A13F"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "City Government of Puerto Princesa City",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-45AEBE40BF31"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Cleanergy 2 Power Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-C0DEF9B823DF"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Cleanergy 2, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-CF78AF1494C1"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "CleanTech Global Renewables, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-100BBE7F5C6E",
+        "DOE-WIND-10C7F2FBD2F7",
+        "DOE-WIND-3ACD14165B68",
+        "DOE-WIND-FC2109A023DD"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "CleanTech Renewable Energy 50 Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-2D00D486B708",
+        "DOE-WIND-6C1759847318"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Converge ICT Solutions Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "PH-DC-CONVERGE-ANGELES",
+        "PH-DC-CONVERGE-CALOOCAN",
+        "PH-ICT-CONVERGE-DATA-CENTER-FABRIC"
+      ],
+      "description": "菲律宾光纤宽带与信息技术服务企业，提供网络连接和企业数字化服务。",
+      "description_source_url": "https://corporate.convergeict.com/corporate-profile",
+      "website": "https://corporate.convergeict.com/",
+      "description_status": "official_source_summary",
+      "project_evidence_urls": [
+        "https://corporate.convergeict.com/newsroom/converge-achieves-full-tier-iii-certification-for-caloocan-dc-the-ph-s-most-advanced-under-uptime-institute",
+        "https://corporate.convergeict.com/newsroom/converge-completes-national-digital-infrastructure-propels-ph-as-vital-hub-in-global-digital-economy",
+        "https://corporate.convergeict.com/newsroom/nokia-and-converge-to-deploy-data-center-solution-for-high-speed-and-superior-digital-services"
+      ]
+    },
+    {
+      "name": "CSFirst Green Agri Industrial Development, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-018E77E0BFC5",
+        "DOE-SOLAR-5B2CF1BB516C"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "CW Marketing & Development Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-667ADBBBAED3"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Ditrolic Green Geno 1 Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-28D91E683DAC",
+        "DOE-OWN-780E27BFEEF6",
+        "DOE-OWN-D15BEF20A2DC"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Eagle Eye Renewable Energy OPC",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-0AB93DC49127"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Earth Sol Energy Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-D50CC0AB9A4F"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Earth Sol Power Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-7E28B8C23A38"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "EDC Burgos Wind Power Corporation (EBWPC)",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "PH-WIND-001"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://energy.com.ph/ebwpc/"
+      ]
+    },
+    {
+      "name": "EDC Pagudpud Wind Power Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-42574C4D4AD7"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "EEI Power Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-092E5665D9F5",
+        "DOE-OWN-17399BAEB4BF",
+        "DOE-OWN-5DB61B14BCCD",
+        "DOE-OWN-680AF8ADDDE8",
+        "DOE-OWN-D5EAAB56BB54",
+        "DOE-OWN-FD95A065441E"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Electricidad, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-79245404591F"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Emerging Energy Resources 2, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-6F292E75BB9D"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "ENDECGROUP",
+      "roles": [
+        "投资方"
+      ],
+      "project_ids": [
+        "PH-DC-002"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://www.pna.gov.ph/articles/1226666"
+      ]
+    },
+    {
+      "name": "Energence Renewable Energy Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-FE40B4489D4C"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Energy Development Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-FF4A8B4553BC",
+        "DOE-WIND-07CF9A8675BD",
+        "DOE-WIND-143C44E36861",
+        "DOE-WIND-2B3C803F94C3",
+        "DOE-WIND-4A9EE660422A"
+      ],
+      "description": "菲律宾可再生能源开发与运营企业，属于 First Gen 业务体系，开展地热以及风、光、水电相关业务。",
+      "description_source_url": "https://energy.com.ph/who-we-are/",
+      "website": "https://energy.com.ph/",
+      "description_status": "official_source_summary",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media",
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Energy Development Corporation (EDC)",
+      "roles": [
+        "投资方"
+      ],
+      "project_ids": [
+        "PH-WIND-001"
+      ],
+      "description": "菲律宾可再生能源开发与运营企业，属于 First Gen 业务体系，开展地热以及风、光、水电相关业务。",
+      "description_source_url": "https://energy.com.ph/who-we-are/",
+      "website": "https://energy.com.ph/",
+      "description_status": "official_source_summary",
+      "project_evidence_urls": [
+        "https://energy.com.ph/ebwpc/"
+      ]
+    },
+    {
+      "name": "Energy Logics Philippines Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-93C814D41D56"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Energy Oasis Generation Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-FFD077679AC0"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Enrique T. Yuchengco Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-77125CC0BA22"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Equator Oil Station",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-BFED2EFE584A"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Evolution Data Centres Pte Ltd.",
+      "roles": [
+        "投资方"
+      ],
+      "project_ids": [
+        "PH-DC-003"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://megawide.com.ph/going-digital-megawide-to-build-philippine-data-center-with-singapore-based-evolution-data-centers/"
+      ]
+    },
+    {
+      "name": "First Cabanatuan Renewable Ventures, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-D3AC2461EE97"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "First Gen Visayas Energy Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-6D1C013164B5"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "FirstMaxpower International Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-2AA9711AA961"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Fortune Renewable Energy Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-DC4CC1560120"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Fortunetown Properties Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-BD68CB960486"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Fuego Renewable Energy Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-433F9E98CC0E",
+        "DOE-SOLAR-6FEC37DF1F17"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Fuji Electric Philippines, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-0D9FF3EACA7E"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Galea Offshore Wind Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-55ADC31EB788"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Giga Ace 14, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-39936B0E633E"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "GIGA ACE 6, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-9923F16510CF",
+        "DOE-WIND-D2384674F364"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "GIGA ACE 8, INC",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-6090BD866515"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "GIGASOL1, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-C06E0FE36444"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Gigasol10, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-E553CB1963C5"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Gigasol4, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-EF78468771DD"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Gigasol7, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-9562F48CF01A"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "GigaSol9, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-BFD43D989EED"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "GigaWind2, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-1AF5FD150B12",
+        "DOE-WIND-7A9C4F15D776"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "GigaWind3, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-2CDC73771CF0"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "GM Energy Construction Philippines Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-DC79F1432CAB"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Greencore Power Solutions 3, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-0503D1BA554F"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "GreenPeak Renewable Power Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-646717FD086F"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Gurīn Energy Pte Ltd.",
+      "roles": [
+        "投资方"
+      ],
+      "project_ids": [
+        "PH-SOLAR-005"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://www.pna.gov.ph/index.php/articles/1248830"
+      ]
+    },
+    {
+      "name": "Hansei Corporation",
+      "roles": [
+        "建设方"
+      ],
+      "project_ids": [
+        "PH-SOLAR-001"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://mirror.pia.gov.ph/news/2022/05/31/aboitiz-picks-epc-contractor-psinan-solar-project"
+      ]
+    },
+    {
+      "name": "Haraya Wind Energy Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-6521FCC5C0EB"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Iligansolar Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-5E95C18261F0"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Ilosong Wind Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-F11E23F9C65C"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Ingrid4 Power Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-8B181A1D754E"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Island Wind Energy Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-3AF99B0525B9"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Ixus Solar Energy Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-7A635F2E1EBD",
+        "DOE-SOLAR-A24B8F8438B7"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "J. S. Construction & Development, Inc. (CRUZCON)",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-439DECD1D1D9"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "JBD Water Power (JWPI) Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-3BE20C51AC9E"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "JM Processing and Freezing Services, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-2181CA6A7CDF"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Jord Energy Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-C581B1D0D2F5"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Juanton Alternative Power Incorporated",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-A0B47C684658"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Kanji Solar Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-83E07AE084D2"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Labrador Green Energy Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-F536E22FCEAC"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Laguna Philippines Renewable Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-AD90E890F430"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Liberty Solar Energy Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-A73C0A04EFD2"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Lightbeam Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-CE5E4E4B958B"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Lihangin Wind Energy Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-BF28F1A481E4"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Linang Energy Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-65B389C66C31"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Linglingay Power Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-5448B43991A4"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Liwanag Energy Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-D048CD803501"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Lucanin Solar Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-647F1C356809"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Luzon Cleanergy Generation, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-622C1314135D"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Luzon Cleanergy, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-344FA7F8CE0B"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Magalang-Mabalacat Solar Power Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-2E40B8C23593"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Mainstream Renewable Power Philippines Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-96A17211532C",
+        "DOE-WIND-D35FE2A7119D",
+        "DOE-WIND-D4F6AB89BDBE"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Mapua Malayan Colleges Mindanao",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-CE3009D74697"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Maragondon Wind Energy Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-3F2387BC7C24"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Maria Reyna-Xavier University Hospital, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-4BA5BE6AF3CC"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Mariwasa-Siam Ceramics, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-0E42702CA9B6"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Mase Power Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-9A11D6E9A519"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Megawide Construction Corporation",
+      "roles": [
+        "建设方",
+        "投资方"
+      ],
+      "project_ids": [
+        "PH-DC-003"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://megawide.com.ph/going-digital-megawide-to-build-philippine-data-center-with-singapore-based-evolution-data-centers/"
+      ]
+    },
+    {
+      "name": "Megawide–Evolution Data Centres 合作项目（实际项目法人未核实）",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "PH-DC-003"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://megawide.com.ph/going-digital-megawide-to-build-philippine-data-center-with-singapore-based-evolution-data-centers/"
+      ]
+    },
+    {
+      "name": "Meralco PowerGen Corporation (MGEN)",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "PH-BESS-MGEN-TOLEDO"
+      ],
+      "description": "Meralco 集团的电力发电业务平台之一；集团业务涵盖电力配送、发电、零售及能源解决方案。",
+      "description_source_url": "https://www.meralco.com.ph/about",
+      "website": "https://www.meralco.com.ph/",
+      "description_status": "official_source_summary",
+      "project_evidence_urls": [
+        "https://www.meralcopowergen.com.ph/mgen-energizes-toledo-bess-boosting-visayas-grid-stability/"
+      ]
+    },
+    {
+      "name": "Merbau Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-3EA9AEB7D2EE",
+        "DOE-SOLAR-5A947C0DF40B",
+        "DOE-SOLAR-A8DB04F8FBCD"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "MGen Renewables / Meralco PowerGen",
+      "roles": [
+        "投资方"
+      ],
+      "project_ids": [
+        "PH-SOLAR-004"
+      ],
+      "description": "项目库中的企业角色名称引用 Meralco PowerGen 及其可再生能源业务；具体法律主体和项目股权需查项目原始公告。",
+      "description_source_url": "https://www.meralco.com.ph/about",
+      "website": "https://www.meralco.com.ph/",
+      "description_status": "official_source_summary",
+      "project_evidence_urls": [
+        "https://www.meralco.com.ph/governance/annual-reports/2025/about-the-company"
+      ]
+    },
+    {
+      "name": "Monaco Suites de Boracay Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-F62FA0A1AEF2"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Monde Nissin Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-275E3AF876A3"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "MSpectrum, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-0C551E75B425"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Mspectrum, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-FDAC31C75FC8"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Narra Technology Park Development Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "PH-DC-002"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://www.pna.gov.ph/articles/1226666"
+      ]
+    },
+    {
+      "name": "Nazareno Solar Power Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-5D176363174F"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Newasia Power Energy II Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-CA4D8D5A8870"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "NKS Solar One Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-E3663A41D0B9"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Nortesol Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-74C724BEC2E1"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Nortesol Incorporated",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-D0F75DEFBB38"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "NortesolIV, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-34D8F09F42F5",
+        "DOE-SOLAR-E97FB60910B4"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "North Luzon Green Power, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-CCA2AA09EA1C"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "North Luzon Natural Energy, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-A1867AD48C42"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "North Luzon Renewable Energy Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-1B8F33772F39"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "North Star Meat Merchants Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-F791DF462FB4"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Northern Sun Radiance Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-A0E6715907D6"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "NorthPoint Wind Power Development Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-5EB99230A586"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Northstar Wind Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-BB3615B8DF95"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "NorthWind Power Development Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-013240B34A5D",
+        "DOE-WIND-ECB1D99B3965"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "NOVA Energy Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-C8D950C99873"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Nuevasol Energy Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-0153C478D68E"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Opus Solar Energy Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-C73F83F35906"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Pacific Impact Energy Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-31600AEA91EE"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "PacificWind Renewables Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-2D6E666ECE91",
+        "DOE-WIND-4D62E9DF4A81",
+        "DOE-WIND-538AAED9381E",
+        "DOE-WIND-7A1BF46D9C8F",
+        "DOE-WIND-E2244AAE3F85"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Palayan Clean Power Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-C9FE92616120"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "PAVI Green Bataan Renewable Energy, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-EE849E2654E5"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Pearl Poultry Dressing n Meat Processing Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-317B63CC3658"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "PetroSolar Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-851451049E25"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "PFMT Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-E00334142D8C"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Phinma Solar Energy Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-E85D56E19EFA"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Pililla Wind Power Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-7E0482EC3457"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Plaridel Windkraft Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-D473AB8EB4C6"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "PowerPinas Energy Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-11FB48BA70F0"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Powersource First Bulacan Solar Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-4B717C3B3088"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Prime Infrastructure Capital Inc. (Prime Infra)",
+      "roles": [
+        "投资方"
+      ],
+      "project_ids": [
+        "PH-SOLAR-002",
+        "PH-SOLAR-003"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://primeinfra.com/prime-infra-inaugurates-64mw-maragondon-solar-power-plant/",
+        "https://primeinfra.com/prime-infra-inaugurates-64mw-tanauan-solar-power-plant/"
+      ]
+    },
+    {
+      "name": "Prime Solar Solutions Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "PH-SOLAR-003"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://primeinfra.com/prime-infra-inaugurates-64mw-maragondon-solar-power-plant/"
+      ]
+    },
+    {
+      "name": "Prime Solar Solutions Corp. / Solar Tanauan Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "PH-SOLAR-002"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://primeinfra.com/prime-infra-inaugurates-64mw-tanauan-solar-power-plant/"
+      ]
+    },
+    {
+      "name": "PV Sinag Power, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "PH-SOLAR-001"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://mirror.pia.gov.ph/news/2022/05/31/aboitiz-picks-epc-contractor-psinan-solar-project"
+      ]
+    },
+    {
+      "name": "RASLAG Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-5F1DFF62832F",
+        "DOE-SOLAR-99165477F968",
+        "DOE-SOLAR-E177D5F60790"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "RDG Wind Energy Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-7D862F35DE44"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Real Wind Energy, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-52AC3E6A3FD7"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "RealSteel Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-45AF346663A4"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Renovable Earth Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-0A7888EADE54"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Robinsons Land Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-91D7484B6BAB",
+        "DOE-OWN-9A90D67B848E",
+        "DOE-OWN-C2166AFE3554",
+        "DOE-OWN-C503AACA4E95"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Ruei Hsiang Solar (Philippines) Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-88FD203A90B6"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Saint Louis University, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-BCCD8AC1CFAE"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Samal Solar Renewable Energy Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-498EE7FDF1ED"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "San Ignacio Energy Resources Development Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-2B1F86BA50EE"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "San Ildefonso Alternative Energy Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-79992727AEE5"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "San Jose Onshore Wind Power Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-6E72C95341CD"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Sanchez Mira Wind Power Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-93B5809252A3"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Sapang Balen Solar Sustainable Energy Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-16A94FE1EF2E",
+        "DOE-SOLAR-D215C7715A55"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Scatec ASA",
+      "roles": [
+        "投资方"
+      ],
+      "project_ids": [
+        "PH-BESS-001",
+        "PH-BESS-002",
+        "PH-SOLAR-006"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://www.scatec.com/en/scatec-jv-in-the-philippines-awarded-68-mw-floating-solar-project/",
+        "https://www.scatec.com/en/scatec-jv-starts-commercial-operation-of-battery-system-in-the-philippines/",
+        "https://www.scatec.com/en/snap-eyes-80-mw-battery-energy-storage-capacity-by-2026-breaks-ground-on-2nd-facility/"
+      ]
+    },
+    {
+      "name": "Sea and Sierra Vista, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-68DD5ECB1CD4"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Sembrano Wind Power Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-80328050C11D"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Sinag Naraw Power Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-7BEDDDE935AE"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Sindicatum C-Solar Power Inc. (SCSPI)",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "PH-SOLAR-005"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://www.pna.gov.ph/index.php/articles/1248830"
+      ]
+    },
+    {
+      "name": "SM Mall of Asia（场地运营方，充电设施产权未确认）",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "PH-EV-001"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://www.smprime.com/company_releases/sm-supermalls-and-tesla-launch-supercharging-station-at-sm-mall-of-asia/"
+      ]
+    },
+    {
+      "name": "SM Prime Holdings, Inc. / SM City Bacoor",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "PH-ROOF-001"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://www.smprime.com/latest_news/sm-taps-solar-power-for-mall-in-bacoor/"
+      ]
+    },
+    {
+      "name": "SN Aboitiz Power Group (SNAP)",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "PH-BESS-002"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://www.scatec.com/en/scatec-jv-starts-commercial-operation-of-battery-system-in-the-philippines/"
+      ]
+    },
+    {
+      "name": "SN Aboitiz Power Group / 相关JV（具体项目公司待核验）",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "PH-SOLAR-006"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://www.scatec.com/en/scatec-jv-in-the-philippines-awarded-68-mw-floating-solar-project/"
+      ]
+    },
+    {
+      "name": "SN Aboitiz Power-Magat, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "PH-BESS-001"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://www.scatec.com/en/snap-eyes-80-mw-battery-energy-storage-capacity-by-2026-breaks-ground-on-2nd-facility/"
+      ]
+    },
+    {
+      "name": "Solana Solar Zeta Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-CF8E26C187E3"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Solar Valley Energy Solutions Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-02B567D26AF0"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Solarace1 Energy Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-B0D57E08D658"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "SolarAce2 Energy Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-65A27FC2BAD4"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "SolarAce3 Energy Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-46CB6ABB7514",
+        "DOE-SOLAR-4CF489130D5F"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "South Luzon Energy Solutions Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-39D1695B815C"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "SP New Energy Corporation (SPNEC)",
+      "roles": [
+        "投资方"
+      ],
+      "project_ids": [
+        "PH-SOLAR-004"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://www.meralco.com.ph/governance/annual-reports/2025/about-the-company"
+      ]
+    },
+    {
+      "name": "St. Paul Hospital Cavite, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-32CB2AD39C36"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "St. Paul's Hospital of Iloilo",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-F2A526948616"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Sta. Ignacia Tarlac Solar Power Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-0F91D00C893F",
+        "DOE-SOLAR-624769970287"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "STT GDC Philippines",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "PH-DC-001",
+        "PH-DC-STT-CAVITE"
+      ],
+      "description": "ST Telemedia Global Data Centres 在菲律宾的数据中心业务相关实体；所属集团提供数据中心基础设施与运营服务。",
+      "description_source_url": "https://assets.sttelemediagdc.com/sttgdc/global_en/public/2025-06/stt_gdc_esg_report_2024.pdf",
+      "website": "https://www.sttelemediagdc.com/",
+      "description_status": "official_source_summary",
+      "project_evidence_urls": [
+        "https://www.globe.com.ph/about-us/newsroom/corporate/stt-gdc-ph-carlo-malana-silver-stevie-award",
+        "https://www.sttelemediagdc.com/ph-en/newsroom/stt-cavite-1-achieves-tier-3-design-certification-uptime-institute"
+      ]
+    },
+    {
+      "name": "SUMEC Complete Equipment and Engineering Co., Ltd.",
+      "roles": [
+        "建设方"
+      ],
+      "project_ids": [
+        "PH-SOLAR-001"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://mirror.pia.gov.ph/news/2022/05/31/aboitiz-picks-epc-contractor-psinan-solar-project"
+      ]
+    },
+    {
+      "name": "Sunpower Renewable Energy Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-D51C7A568BBC"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Superserve Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-495E48EC4D85"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Talugtug Renewables Inc",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-B22C2AF8ED22"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Team (Philippines) Renewable Energy Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-BB1D506FABD2"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Telos Energy Development Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-215CC5238FF8"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Tera Renewables 3 Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-726A655006DC"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Tera Renewables 4 Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-6F1A88981B25"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Tera Renewables 7 Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-CD130CA909E4"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Tera Renewables 9 Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-62196EE29B73"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Terra Solar Philippines, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "PH-SOLAR-004"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://www.meralco.com.ph/governance/annual-reports/2025/about-the-company"
+      ]
+    },
+    {
+      "name": "TOTALPower, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-54B2FC8810EC"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Triconti Southwind Corporation",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-C8450726E87C"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Tsuneishi Green Energy Phils. Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-OWN-7032BF8EF097"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.4%20Awarded%20Solar%20Own%20Use%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Upgrade Energy Philippines, Inc.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-SOLAR-8F05743ACFF6"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Vent Fort Energy Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-78F2B316C7C0"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "Vind Energy Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-23B87DA40236"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    },
+    {
+      "name": "VITRO Inc. / ePLDT",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "PH-DC-NEW-VITRO-SR"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://www.youtube.com/watch?v=MKpIzc30ADU"
+      ]
+    },
+    {
+      "name": "Zamba Star Wind Corp.",
+      "roles": [
+        "项目主体"
+      ],
+      "project_ids": [
+        "DOE-WIND-1405285DEA1D"
+      ],
+      "description": "",
+      "description_source_url": "",
+      "website": "",
+      "description_status": "not_verified",
+      "project_evidence_urls": [
+        "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "description": "DOE official PDF source list; parsing runs and reports document evidence only. Never auto-add extracted lines to project database.",
+  "sources": [
+    {
+      "id": "doe_solar_pdf",
+      "label": "DOE awarded solar projects PDF",
+      "format": "pdf",
+      "url": "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.3%20Awarded%20Solar%2030%20Sep%202026.pdf?prefix=dev/media",
+      "enabled": true,
+      "publisher": "DOE"
+    },
+    {
+      "id": "doe_wind_pdf",
+      "label": "DOE awarded wind projects PDF",
+      "format": "pdf",
+      "url": "https://d24qbtp4vooyzi.cloudfront.net/api/media/file/a.9%20Awarded%20Wind%2030%20Sep%202026.pdf?prefix=dev/media",
+      "enabled": true,
+      "publisher": "DOE"
+    }
+  ]
+}
